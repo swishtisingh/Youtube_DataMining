@@ -3,12 +3,14 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<!DOCTYPE html>
+<html lang="en">
+
 <body>
     <div>
-        <img src="[https://i.pinimg.com/originals/37/4a/9c/374a9ce6182b7a8aafd8c6ea6b698ff3.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechnologyadvice.com%2Fblog%2Finformation-technology%2Fwhat-is-data-mining%2F&psig=AOvVaw19BKeEu0CcfY_-Xg3PqDvw&ust=1729358946786000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIC92aC6mIkDFQAAAAAdAAAAABAR)" alt="Banner Image" class="banner">
+        <img src="https://assets.technologyadvice.com/uploads/2024/07/imageedit_3_7711331884.jpg" alt="Banner Image" class="banner">
     </div>
 </body>
-</html>
 
 ## Overview
 The YouTube Data Mining Project applies advanced data mining techniques and machine learning algorithms to analyze YouTube video metadata. By leveraging clustering and anomaly detection, this project uncovers patterns in video characteristics and detects anomalies that deviate from common trends. The insights derived from this project can help in understanding user engagement, video trends, and outliers in the vast amount of content hosted on YouTube.
