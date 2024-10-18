@@ -1,5 +1,15 @@
 # YouTube Data Mining 
 
+<!DOCTYPE html>
+<html lang="en">
+
+<body>
+    <div>
+        <img src="[https://i.pinimg.com/originals/37/4a/9c/374a9ce6182b7a8aafd8c6ea6b698ff3.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechnologyadvice.com%2Fblog%2Finformation-technology%2Fwhat-is-data-mining%2F&psig=AOvVaw19BKeEu0CcfY_-Xg3PqDvw&ust=1729358946786000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIC92aC6mIkDFQAAAAAdAAAAABAR)" alt="Banner Image" class="banner">
+    </div>
+</body>
+</html>
+
 ## Overview
 The YouTube Data Mining Project applies advanced data mining techniques and machine learning algorithms to analyze YouTube video metadata. By leveraging clustering and anomaly detection, this project uncovers patterns in video characteristics and detects anomalies that deviate from common trends. The insights derived from this project can help in understanding user engagement, video trends, and outliers in the vast amount of content hosted on YouTube.
 
@@ -132,7 +142,7 @@ streamlit run app.py
   
 - **Isolation Forest:** Detects anomalies by isolating data points that differ significantly from the rest of the dataset.
 
-# Future_Work
+## Future_Work
 
 - **Enhance Data Collection:** Incorporate more diverse video features, such as sentiment analysis from comments or audio-visual data.
   
@@ -142,7 +152,7 @@ streamlit run app.py
   
 - **Advanced Visualizations:** Build interactive visualizations for cluster and anomaly exploration.
 
-# Contributing
+## Contributing
 
 Contributions to this project are highly encouraged! Whether you're improving the documentation, fixing bugs, or adding new features, your input is invaluable.
 
@@ -161,12 +171,12 @@ git push origin feature-branch
 ```
 5. Open a Pull Request and describe your changes.
 
-# Author
+## Author
 ### Srishti Singh
 Data Scientist and Machine Learning Enthusiast
 Feel free to connect with me on [LinkedIn.](https://www.linkedin.com/in/srishti-singh-921aa52aa/)
 
-# License
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
 
