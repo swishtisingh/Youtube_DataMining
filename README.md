@@ -175,7 +175,7 @@ git push origin feature-branch
 
 ## Author
 ### Srishti Singh
-Data Scientist and Machine Learning Enthusiast
+Data Scientist and Machine Learning Enthusiast.<br>
 Feel free to connect with me on [LinkedIn.](https://www.linkedin.com/in/srishti-singh-921aa52aa/)
 
 ## License
